@@ -1,4 +1,4 @@
 # Credit-_Calculator  
-Just a nice little credit calculator.  
-Just open index.html to launch it  
+Just a nice little credit calculator.    
 Used: HTML,SCSS,SCC,JS  
+https://denyskuchma.github.io/Credit-Calculator/
